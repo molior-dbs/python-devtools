@@ -1,3 +1,23 @@
+python-devtools (0.12.2-molior1) stretch; urgency=medium
+
+  * python-devtools: release 0.11.0-1
+  * build for molior
+  * debianize
+  * install debug into `builtins` via `DebugProxy` (#139)
+  * fix docs publish
+  * Uprev 0.12.0 (#138)
+  * Make `Pygments` required (#137)
+  * support dataclasses with slots (#136)
+  * Bump certifi from 2022.12.7 to 2023.7.22 in /requirements (#135)
+  * Bump pymdown-extensions from 9.10 to 10.0 in /requirements (#129)
+  * Bump pygments from 2.14.0 to 2.15.0 in /requirements (#134)
+  * Bump pygments from 2.13.0 to 2.15.0 in /docs (#133)
+  * Bump requests from 2.28.2 to 2.31.0 in /requirements (#130)
+  * Update usage to reflect the recent addition of the pytest plugin
+    (#128)
+
+ -- Dominik Schneider <dominik.schneider@accenture.com>  Fri, 22 Sep 2023 14:41:50 +0200
+
 python-devtools (0.11.0-1) stretch; urgency=medium
 
   * initial packaging
