@@ -1,3 +1,9 @@
+python-devtools (0.12.2-molior2) stretch; urgency=medium
+
+  * build for bookworm
+
+ -- Dominik Schneider <dominik.schneider@accenture.com>  Fri, 22 Sep 2023 14:43:27 +0200
+
 python-devtools (0.12.2-molior1) stretch; urgency=medium
 
   * python-devtools: release 0.11.0-1
