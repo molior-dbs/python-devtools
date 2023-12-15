@@ -1,3 +1,9 @@
+python-devtools (0.12.2-molior3) stretch; urgency=medium
+
+  * build for 1.5
+
+ -- André Roth <neolynx@gmail.com>  Fri, 15 Dec 2023 19:22:18 +0100
+
 python-devtools (0.12.2-molior2) stretch; urgency=medium
 
   * build for bookworm
