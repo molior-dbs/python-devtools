@@ -1,0 +1,5 @@
+python-devtools (0.12.1-1) stable; urgency=medium
+
+  * build for debian bookworm
+
+ -- André Roth <neolynx@gmail.com>  Wed, 20 Dec 2023 13:54:57 +0100
